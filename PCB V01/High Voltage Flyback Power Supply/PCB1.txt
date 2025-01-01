@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : E:\Academic\METU\5670575 ADVANCED HIGH VOLTAGE TECHNIQUES\Final Project\PCB V01\High Voltage Flyback Power Supply\PCB1.PcbDoc
+Date         : 1/1/2025
+Time         : 4:07:58 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 87.63mmx54.229mm
+    Components on board, 26
+count : 2
